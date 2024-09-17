@@ -1,0 +1,60 @@
+.container {
+  margin: 30px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 20px;
+  width: 40%;
+  background-color: white;
+}
+
+.imageContainer {
+  margin: 0 auto;
+  text-align: center;
+  padding: 0;
+}
+
+.textContainer {
+  max-width: 80%;
+  width: 70%;
+  margin: 0 auto;
+
+}
+
+.title {
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+.date {
+  font-size: 20px;
+  color: rgb(111, 111, 111);
+  text-align: center;
+  margin: 0 auto;
+}
+
+.Temp {
+  font-size: 110px;
+  background-color: white;
+  float: left;
+  text-align: left;
+  margin-bottom: 70px;
+  margin-top: 0;
+  padding-right: 20px;
+}
+
+.iconname {
+  /* float: right; */
+  text-align: center;
+  font-size: 35px;
+  margin: 0 auto;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
